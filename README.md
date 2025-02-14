@@ -7,7 +7,7 @@
 Watch the Implementation Tutorial on YouTube:
 
 <p align="center">
-    <a href="https://youtu.be/gc5NNe7rnFs">
+    <a href="[https://youtu.be/gc5NNe7rnFs](https://youtu.be/gc5NNe7rnFs)">
         <img src="https://img.youtube.com/vi/gc5NNe7rnFs/0.jpg" alt="Live Translation Implementation Tutorial" width="560" height="315">
     </a>
 </p>
